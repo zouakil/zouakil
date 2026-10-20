@@ -37,10 +37,8 @@ I'm a Digital Health Engineering student at **UM6SS, Casablanca**, focused on **
 ### 🩺 [Diabetic Retinopathy Grading](https://github.com/zouakil/Diabetic-retinopathy-grading-data-cleaning-training-Grad-CAM-external-validation)
 **PyTorch · EfficientNet-B0 · Grad-CAM · Medical Computer Vision**
 
-Five-class retinal-image classification using APTOS 2019, with leakage-aware data cleaning, model interpretation, and independent IDRiD evaluation.
+Five-class retinal-image classification using APTOS 2019,
 
-- **Internal validation:** 86.2% accuracy, 0.926 quadratic weighted kappa
-- **External validation:** 40.5% accuracy, 0.650 quadratic weighted kappa — a meaningful domain-shift finding, documented transparently in the project
 
 ### 🌐 [MediGo — Telemedicine Platform](https://github.com/zouakil/Medigo-Telemedicine-Platform)
 **Django · PostgreSQL · Redis · Docker · WebRTC · WebSockets**
@@ -52,7 +50,6 @@ Telemedicine platform designed for remote consultations in rural settings, with 
 
 Comparative ML study using 2,126 cardiotocography records to classify fetal health into three categories. Includes leakage-conscious preparation, imbalance handling, cross-validation, and explainability.
 
-- **Best reported test accuracy:** 94%; **pathological-class recall:** approximately 91%
 
 ### 💊 [MediTrack — Medication Management](https://github.com/zouakil/MediTrack)
 **Django · Web Development**
@@ -65,5 +62,3 @@ I'm interested in opportunities where thoughtful engineering and responsible AI 
 
 📧 **Email:** [zakariaouakil180@gmail.com](mailto:zakariaouakil180@gmail.com)  
 💻 **GitHub:** [github.com/zouakil](https://github.com/zouakil)
-
-<sub>Healthcare AI projects here are academic/research demonstrations, not clinically validated medical devices.</sub>
