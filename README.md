@@ -19,8 +19,6 @@ I'm a Digital Health Engineering student at **UM6SS, Casablanca**, focused on **
 
 - 🔬 **Interests:** medical imaging, explainable AI, applied machine learning, and healthcare platforms
 - 🛠️ **Experience:** developing Django/PostgreSQL applications, ML pipelines, and generative-AI document workflows
-- 🌍 **Based in:** Casablanca, Morocco
-- 🎯 **Open to:** a six-month final-year internship (PFE) in **2027** in AI/ML, data science, or software engineering
 
 ## Technical toolkit
 
@@ -61,4 +59,3 @@ Web application for tracking medication intake and supporting medication-managem
 I'm interested in opportunities where thoughtful engineering and responsible AI can solve real-world problems.
 
 📧 **Email:** [zakariaouakil180@gmail.com](mailto:zakariaouakil180@gmail.com)  
-💻 **GitHub:** [github.com/zouakil](https://github.com/zouakil)
